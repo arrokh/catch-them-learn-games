@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 05b1feaa08045b2489853a4489f2f632
+timeCreated: 1448929849
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - userData: {fileID: 11400000, guid: 9a20b10e7ca4eb94a878d409ddcba727, type: 2}
+  - problemList: {fileID: 11400000, guid: a4febc82bbe88d646b6698be1163218c, type: 2}
+  - slider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
